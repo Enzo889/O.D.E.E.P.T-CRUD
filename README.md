@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 
 <!-- PROJECT LOGO -->
-  <h3 align="center">O.D.E.E.P.T-CRUD</h3>
+  <h1 align="center">O.D.E.E.P.T-CRUD</h1>
 
   <p align="center">
     ¡Bienvenido a "Otro Día en el Planeta Tierra"!
